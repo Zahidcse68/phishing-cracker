@@ -1,0 +1,7 @@
+{
+  "name": "SecureYear 2025: Fraud Link & QR Guard",
+  "description": "A comprehensive security suite for the new year to detect phishing links, analyze suspicious QR codes, and trace redirects using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
